@@ -4,7 +4,7 @@
 import PackageDescription
 
 let package = Package(
-    name: "TuyaSmartUtil",
+    name: "TuyaHomeiOSSDK",
     platforms: [
         .iOS(.v14),
     ],
